@@ -103,7 +103,7 @@ jobs:
           allow_forks: false
           repo: hackcr1258/android-openjdk-build-multiarch
           branch: buildjre17
-          name: jre17-ios-aarch64
+          name: jre17-ios-aarch64.zip
 
       - name: Build for ${{ matrix.platform_name }}
         env:
