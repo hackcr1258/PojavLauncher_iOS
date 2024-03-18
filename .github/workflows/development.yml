@@ -109,8 +109,9 @@ jobs:
         env:
           password: ${{ secrets.ELLIE_MINI_SECRET }}
         run: |
-          export PATH=/opt/procursus/bin:/opt/homebrew/bin:$PATH
-          export RUNNER=1 SLIMMED=1
+          sudo xcode-select -switch /Applications/Xcode15.0.app \
+          xcodebuild -sdk iphoneos -project PojavLauncher.xcodeproj \
+          
           
 
       - name: Upload regular ipa
