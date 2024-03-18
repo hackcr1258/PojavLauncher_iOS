@@ -94,12 +94,12 @@ jobs:
           name: jre8-ios-aarch64
 
       - name: Get JRE17
-        uses: dawidd6/action-download-artifact@v2
+        uses: dawidd6/action-download-artifact@v3
         with:
-          github_token: ${{secrets.GITHUB_TOKEN}}
+          github_token: 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
           workflow: build.yml
           path: depends
-          workflow_conclusion: failed
+          workflow_conclusion: success
           allow_forks: false
           repo: hackcr1258/android-openjdk-build-multiarch
           branch: buildjre17
