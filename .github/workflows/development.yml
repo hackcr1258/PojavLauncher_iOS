@@ -96,10 +96,10 @@ jobs:
       - name: Get JRE17
         uses: dawidd6/action-download-artifact@v2
         with:
-          github_token: 
+          github_token: ${{secrets.GITHUB_TOKEN}}
           workflow: build.yml
           path: depends
-          workflow_conclusion: success
+          workflow_conclusion: completed
           allow_forks: false
           repo: hackcr1258/android-openjdk-build-multiarch
           branch: buildjre17
