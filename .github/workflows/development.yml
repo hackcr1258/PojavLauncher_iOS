@@ -109,9 +109,12 @@ jobs:
         env:
           password: ${{ secrets.ELLIE_MINI_SECRET }}
         run: |
-          sudo xcode-select -switch /Applications/Xcode15.0.app \
-          xcodebuild -sdk iphoneos -project PojavLauncher.xcodeproj \
-          
+          xcodebuild -scheme "PojavLauncher" \
+          -archivePath $RUNNER_TEMP/PojavLauncher.xcarchive \
+          -sdk iphoneos \
+          -configuration Debug \
+          -destination generic/platform=iOS \
+          clean archive         
           
 
       - name: Upload regular ipa
