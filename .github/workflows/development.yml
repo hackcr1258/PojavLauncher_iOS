@@ -96,7 +96,7 @@ jobs:
       - name: Get JRE17
         uses: dawidd6/action-download-artifact@v2
         with:
-          github_token: ${{secrets.GITHUB_TOKEN}}
+          github_token: qzzltDltNWbrJj3UrQRAdWvQIe1cGx4XDSgD
           workflow: build.yml
           path: depends
           workflow_conclusion: success
