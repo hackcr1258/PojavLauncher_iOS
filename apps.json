@@ -14,7 +14,7 @@
         "versionDescription": "PojavLauncher 2.2 Deepslate puts a focus on our core functionality, working to squash bugs, improve performance, and increase reliability.", 
         "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa", 
         "localizedDescription": "PojavLauncher is a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.\n\nâ€¢ Play most versions of Minecraft, from the very first beta to the latest snapshots.\nâ€¢ Customize with mods, resource packs, and compatible shaders\nâ€¢ Create multiple instances of Minecraft for multiple versions\nâ€¢ Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\nâ€¢ Play online with full Java Edition servers\n...and so much more!\n\nNotice: PojavLauncher iOS requires JIT to function correctly. This application automatically enables JIT with JITStreamer, TrollStore, or when jailbroken, however other methods can be used if required.", 
-        "size": 108175347
+        "size": 108175347,
         "beta": false
       },
       {
@@ -23,7 +23,7 @@
         "versionDescription": "PojavLauncher we know and love... with experimental features", 
         "downloadURL": "https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher-ios.ipa.zip", 
         "localizedDescription": "PojavLauncher is a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.\n\nâ€¢ Play most versions of Minecraft, from the very first beta to the latest snapshots.\nâ€¢ Customize with mods, resource packs, and compatible shaders\nâ€¢ Create multiple instances of Minecraft for multiple versions\nâ€¢ Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\nâ€¢ Play online with full Java Edition servers\n...and so much more!\n\nNotice: PojavLauncher iOS requires JIT to function correctly. This application automatically enables JIT with JITStreamer, TrollStore, or when jailbroken, however other methods can be used if required.", 
-        "size": 149946368
+        "size": 149946368,
         "beta": true
       }
     ],
