@@ -19,7 +19,7 @@
       {
         "version": "3.0"
         "versionDate": "2025-03-17T17:00:00-05:00", 
-        "localizedDescription": "PojavLauncher we know and love... with experimental features", 
+        "localizedDescription": "PojavLauncher we know and love, with experimental features", 
         "downloadURL": "https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher-ios.ipa.zip", 
         "size": 149946368,
         "beta": true
