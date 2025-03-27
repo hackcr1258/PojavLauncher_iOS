@@ -16,6 +16,14 @@
         "size": 108175347,
         "beta": false
       },
+       {
+        "version": "3.0",
+        "versionDate": "2025-03-17T17:00:00-05:00", 
+        "localizedDescription": "PojavLauncher we know and love, with experimental features", 
+        "downloadURL": "https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher-ios.ipa.zip", 
+        "size": 149946368,
+        "beta": true
+      }
     ],
       "localizedDescription": "PojavLauncher is a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.\n\nâ€¢ Play most versions of Minecraft, from the very first beta to the latest snapshots.\nâ€¢ Customize with mods, resource packs, and compatible shaders\nâ€¢ Create multiple instances of Minecraft for multiple versions\nâ€¢ Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\nâ€¢ Play online with full Java Edition servers\n...and so much more!\n\nNotice: PojavLauncher iOS requires JIT to function correctly. This application automatically enables JIT with JITStreamer, TrollStore, or when jailbroken, however other methods can be used if required.", 
      "iconURL": "https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png", 
