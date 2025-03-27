@@ -10,14 +10,14 @@
     "versions":  [
       {
         "version": "2.2", 
-        "versionDate": "2023-05-06T17:00:00-05:00", 
+        "date": "2023-05-06T17:00:00-05:00", 
         "localizedDescription": "PojavLauncher 2.2 Deepslate puts a focus on our core functionality, working to squash bugs, improve performance, and increase reliability.", 
         "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa", 
         "size": 108175347,
       },
       {
         "version": "3.0",
-        "versionDate": "2025-03-17T17:00:00-05:00", 
+        "date": "2025-03-17T17:00:00-05:00", 
         "localizedDescription": "PojavLauncher we know and love, with experimental features", 
         "downloadURL": "https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher-ios.ipa.zip", 
         "size": 149946368,
