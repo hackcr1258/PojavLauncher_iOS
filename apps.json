@@ -1,6 +1,6 @@
 { 
   "name": "PojavLauncher Repository", 
-  "identifier": "dev.crystall1ne.repos.PojavLauncher", 
+  "identifier": "net.kdt.repos.PojavLauncher", 
   "apps": 
   [{ 
     "name": "PojavLauncher", 
@@ -19,19 +19,6 @@
       "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG", "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG", "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG", "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG"
     ]
   }],
-  [{
-    "name": "PojavLauncher Nightly"
-    "bundleIdentifier": "net,kdt,pojavlauncher",
-    "developerName": "PojavLauncherTeam"
-    "subtitle": "Bringing Minecraft: Java Edition to mobile devices... with experimental enhancements"
-    "version": "nightly"
-    "versionDescription": "The PojavLauncher we all know, but with experimental enhancements. Report bugs on the official github!"
-    "downloadURL": "https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher-ios.ipa.zip", 
-    "iconURL": "https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png", 
-    "tintColor": "746344", 
-    "size": 149946368
-  }
-  ], 
   "news": [{ 
     "title": "PojavLauncher 2.2 Deepslate",
     "identifier": "dev.crystall1ne.appnews.PojavLauncher", 
