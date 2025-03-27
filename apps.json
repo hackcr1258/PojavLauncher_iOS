@@ -16,8 +16,9 @@
     "tintColor": "746344", 
     "size": 108175347, 
     "screenshotURLs": [
-      "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG", "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG", "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG", "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG" 
+      "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG", "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG", "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG", "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG"
     ]
+  }],
   [{
     "name": "PojavLauncher Nightly"
     "bundleIdentifier": "net,kdt,pojavlauncher",
