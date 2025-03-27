@@ -13,10 +13,8 @@
         "versionDate": "2023-05-06T17:00:00-05:00", 
         "versionDescription": "PojavLauncher 2.2 Deepslate puts a focus on our core functionality, working to squash bugs, improve performance, and increase reliability.", 
         "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa", 
-        "localizedDescription": "PojavLauncher is a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.\n\nâ€¢ Play most versions of Minecraft, from the very first beta to the latest snapshots.\nâ€¢ Customize with mods, resource packs, and compatible shaders\nâ€¢ Create multiple instances of Minecraft for multiple versions\nâ€¢ Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\nâ€¢ Play online with full Java Edition servers\n...and so much more!\n\nNotice: PojavLauncher iOS requires JIT to function correctly. This application automatically enables JIT with JITStreamer, TrollStore, or when jailbroken, however other methods can be used if required.", 
-        "iconURL": "https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png", 
-        "tintColor": "746344", 
-        "size": 108175347, 
+        a"localizedDescription": "PojavLauncher is a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.\n\nâ€¢ Play most versions of Minecraft, from the very first beta to the latest snapshots.\nâ€¢ Customize with mods, resource packs, and compatible shaders\nâ€¢ Create multiple instances of Minecraft for multiple versions\nâ€¢ Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\nâ€¢ Play online with full Java Edition servers\n...and so much more!\n\nNotice: PojavLauncher iOS requires JIT to function correctly. This application automatically enables JIT with JITStreamer, TrollStore, or when jailbroken, however other methods can be used if required.", 
+        "size": 108175347
       },
       {
         "version": "3.0"
@@ -24,13 +22,22 @@
         "versionDescription": "PojavLauncher we know and love... with experimental features", 
         "downloadURL": "https://nightly.link/PojavLauncherTeam/PojavLauncher_iOS/workflows/development/main/net.kdt.pojavlauncher-ios.ipa.zip", 
         "localizedDescription": "PojavLauncher is a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.\n\nâ€¢ Play most versions of Minecraft, from the very first beta to the latest snapshots.\nâ€¢ Customize with mods, resource packs, and compatible shaders\nâ€¢ Create multiple instances of Minecraft for multiple versions\nâ€¢ Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\nâ€¢ Play online with full Java Edition servers\n...and so much more!\n\nNotice: PojavLauncher iOS requires JIT to function correctly. This application automatically enables JIT with JITStreamer, TrollStore, or when jailbroken, however other methods can be used if required.", 
-        "iconURL": "https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png", 
-        "size": 149946368,   
+        
+        "size": 149946368
       }
     ],
-    "screenshotURLs": [
+    "iconURL": "https://raw.githubusercontent.com/PojavLauncherTeam/PojavLauncher_iOS/main/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png", 
+     "tintColor": "746344", 
+      "screenshotURLs": [
       "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG", "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG", "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG", "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG"
     ]
+    "permissions": [
+      {
+        "type": "network",
+        "usageDescription": "Allows you to find devices on your local network."
+      }
+    ],
+      
   }],
   "news": [{ 
     "title": "PojavLauncher 2.2 Deepslate",
@@ -41,7 +48,7 @@
     "appID": "net.kdt.pojavlauncher", 
     "date": "2023-05-06", 
     "notify": true ,
-    "size": 108175347,
+    "size": 108175347
   }, 
     { 
     "title": "PojavLauncher 2.1.3 - New bug fix release, available now.", 
